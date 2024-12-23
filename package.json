@@ -1,6 +1,6 @@
 {
   "name": "@cryptix/grpc",
-  "version": "1.4.1",
+  "version": "0.0.7",
   "description": "Node gRPC interface for Cryptix",
   "main": "dist/index.js",
   "authors": [
